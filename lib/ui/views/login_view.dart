@@ -24,7 +24,7 @@ class LoginView extends StatelessWidget {
           backgroundColor: Color(0xff050210),
           body: SingleChildScrollView(
             padding: EdgeInsets.only(
-                left: 20.0, right: 20.0, top: devicePadding.top + 90.0),
+                left: 20.0, right: 20.0, top: devicePadding.top + 120.0),
             child: Column(
               mainAxisSize: MainAxisSize.max,
               mainAxisAlignment: MainAxisAlignment.center,

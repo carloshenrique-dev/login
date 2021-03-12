@@ -1,3 +1,4 @@
+import 'package:compound/ui/views/home_view.dart';
 import 'package:flutter/material.dart';
 import 'package:compound/services/navigation_service.dart';
 import 'package:compound/services/dialog_service.dart';
@@ -32,7 +33,7 @@ class MyApp extends StatelessWidget {
               fontFamily: 'Open Sans',
             ),
       ),
-      home: LoginView(),
+      home: HomeView(),
       onGenerateRoute: generateRoute,
     );
   }

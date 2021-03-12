@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:285377376396:android:0b5f1437d1c84c592ecba9",
+        "mobilesdk_app_id": "1:285377376396:android:cdc01934302752b32ecba9",
         "android_client_info": {
-          "package_name": "com.example.login"
+          "package_name": "com.recogny"
         }
       },
       "oauth_client": [
